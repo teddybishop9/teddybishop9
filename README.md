@@ -3,7 +3,7 @@
 * 😄I write code in SQL, Python, R, and Java.
 * 🌱I visualize data in Excel and Tableau.
 * ⚡I analyze data using mathematics and statistics.
-* 💬Topics I love to work with in data include sports, food, and finance
+* 💬Topics I love to work with in data include sports, food, and finance.
 
 
 <!--
